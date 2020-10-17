@@ -1,0 +1,6 @@
+# register
+# login
+# profile set
+# view jobs
+# apply jobs
+# applied jobs will not be visible

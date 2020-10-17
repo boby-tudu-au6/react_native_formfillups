@@ -1,0 +1,16 @@
+admin/node_modules
+.expo
+admin/.expo
+formfillups/node_modules
+formfillups/.expo
+formfillups/.expo-shared
+formfillups/.vscode
+imageSite
+newFormfillups
+ic_launcher.zip
+ic_launcher
+frontend
+formserver
+admin
+formFillup_admin
+
