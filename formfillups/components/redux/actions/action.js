@@ -5,9 +5,7 @@ export const DO_LOGIN = 'DO_LOGIN'
 export const DO_LOGOUT = 'DO_LOGOUT'
 export const GET_PROFILE = 'GET_PROFILE'
 export const GET_APPLIED = 'GET_APPLIED'
-// export const baseurl = 'https://formfillups.herokuapp.com'
-export const baseurl = 'http://192.168.43.38:3000'
-// export const baseurl = 'http://localhost:8080'
+export const baseurl = 'http://000.000.00.00:0000'
 let Navigation = null
 
 export const doLogin = ({phone,pass,navigation,setLoading}) => async dispatch =>{
